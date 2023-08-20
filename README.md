@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nitin Choudhary
 - 👀 I’m interested in Programing, Graphic Designing and Exploring New Things!
 - 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Web Development | Graphic Designing
 - 📫 How to reach me @ncjpr04 on Instagram and Twitter
 - Email - nitinchoudhary22112004@gmail.com
 
