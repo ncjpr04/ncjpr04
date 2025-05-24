@@ -1,14 +1,8 @@
-- 👋 Hi, I’m Nitin Choudhary
-- 👀 I’m interested in Programing, Graphic Designing and Exploring New Things!
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on ... Web Development | Graphic Designing
-- 📫 How to reach me @ncjpr04 on Instagram and Twitter
-- Email - nitinchoudhary22112004@gmail.com
+## Hi 👋 My name is Nitin Choudhary
 
-## Hi 👋 My name is Surbhi Jha
-
-![Profile Views](https://komarev.com/ghpvc/?username=surbhi-codes&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=ncjpr04&color=blue)
 - 🌍 I'm based in India.
+- 📫 How to reach me @ncjpr04 on Instagram and Twitter
 - ✉️ You can contact me at nitinchoudhary22112004@gmail.com
 - 🌱 I’m currently learning Blockchain Development.
 - 🤝 I’m open to collaborating on fullstack and blockchain projects and ideas.
